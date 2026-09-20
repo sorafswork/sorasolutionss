@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sora-innovative-solution.lovable.app/sitemap.xml
